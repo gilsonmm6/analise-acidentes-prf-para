@@ -31,31 +31,31 @@ O projeto combina análise exploratória, modelagem estatística avançada e pre
 
 | Densidade de Acidentes Fatais (KDE) |
 |---|
-| ![](relatorios/Densidade%20de%20Acidentes%20Fatais%20—%20Kernel%20Density%20Pará%202024–2025.png) |
+| ![](relatorios/Densidade%20de%20Acidentes%20Fatais%20%E2%80%94%20Kernel%20Density%20Par%C3%A1%202024%E2%80%932025.png) |
 
 ### NB02 — Modelagem Estatística
 
 | Forest Plot — OR Cumulativos | SHAP Summary — XGBoost |
 |---|---|
-| ![](relatorios/Forest%20Plot%20—%20OR%20Cumulativos%20(Modelo%20Ordinal)%20Pará%202024–2025.png) | ![](relatorios/SHAP%20Summary%20—%20Top%2012%20Categorias%20Fatalidade%20(XGBoost)%20·%20Pará%202024–2025.png) |
+| ![](relatorios/Forest%20Plot%20%E2%80%94%20OR%20Cumulativos%20(Modelo%20Ordinal)%20Par%C3%A1%202024%E2%80%932025.png) | ![](relatorios/SHAP%20Summary%20%E2%80%94%20Top%2012%20Categorias%20Fatalidade%20(XGBoost)%20%C2%B7%20Par%C3%A1%202024%E2%80%932025.png) |
 
 | Curva de Calibração |
 |---|
-| ![](relatorios/Curva%20de%20Calibração%20—%20Modelos%20de%20Fatalidade%20Pará%202024–2025.png) |
+| ![](relatorios/Curva%20de%20Calibra%C3%A7%C3%A3o%20%E2%80%94%20Modelos%20de%20Fatalidade%20Par%C3%A1%202024%E2%80%932025.png) |
 
 ### NB03 — Validação Temporal e Predição 2026
 
-| Validação Temporal (ROC + Calibração) |
+| Curva ROC + Calibração da Validação Temporal |
 |---|
-| ![](relatorios/PRF_Para_03_Predicao_2026_cell07.png) |
+| ![](relatorios/curva%20ROC%20%2B%20calibra%C3%A7%C3%A3o%20da%20valida%C3%A7%C3%A3o%20temporal.png) |
 
 | Projeção por Rodovia 2026 | Mapa de Risco Preditivo 2026 |
 |---|---|
-| ![](relatorios/Projeção%20de%20Acidentes%20por%20Rodovia%20—%202026%20Pará.png) | ![](relatorios/Mapa%20de%20Risco%20Preditivo%202026%20—%20Rodovias%20Federais%20do%20Pará.png) |
+| ![](relatorios/Proje%C3%A7%C3%A3o%20de%20Acidentes%20por%20Rodovia%20%E2%80%94%202026%20Par%C3%A1.png) | ![](relatorios/Mapa%20de%20Risco%20Preditivo%202026%20%E2%80%94%20Rodovias%20Federais%20do%20Par%C3%A1.png) |
 
 | Simulador Interativo de Risco |
 |---|
-| ![](relatorios/Simulador%20de%20Risco%20de%20Fatalidade%20—%20PRF%20Para%202026.png) |
+| ![](relatorios/Simulador%20de%20Risco%20de%20Fatalidade%20%E2%80%94%20PRF%20Para%202026.png) |
 
 ## 🧠 Metodologia — 3 Notebooks Encadeados
 
