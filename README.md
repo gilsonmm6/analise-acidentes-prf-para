@@ -31,31 +31,31 @@ O projeto combina análise exploratória, modelagem estatística avançada e pre
 
 | Densidade de Acidentes Fatais (KDE) |
 |---|
-| ![](relatorios/Densidade%20de%20Acidentes%20Fatais%20%E2%80%94%20Kernel%20Density%20Par%C3%A1%202024%E2%80%932025.png) |
+| ![](relatorios/nb01_densidade_acidentes_fatais.png) |
 
 ### NB02 — Modelagem Estatística
 
 | Forest Plot — OR Cumulativos | SHAP Summary — XGBoost |
 |---|---|
-| ![](relatorios/Forest%20Plot%20%E2%80%94%20OR%20Cumulativos%20(Modelo%20Ordinal)%20Par%C3%A1%202024%E2%80%932025.png) | ![](relatorios/SHAP%20Summary%20%E2%80%94%20Top%2012%20Categorias%20Fatalidade%20(XGBoost)%20%C2%B7%20Par%C3%A1%202024%E2%80%932025.png) |
+| ![](relatorios/nb02_forest_plot_or.png) | ![](relatorios/nb02_shap_summary.png) |
 
 | Curva de Calibração |
 |---|
-| ![](relatorios/Curva%20de%20Calibra%C3%A7%C3%A3o%20%E2%80%94%20Modelos%20de%20Fatalidade%20Par%C3%A1%202024%E2%80%932025.png) |
+| ![](relatorios/nb02_curva_calibracao.png) |
 
 ### NB03 — Validação Temporal e Predição 2026
 
 | Curva ROC + Calibração da Validação Temporal |
 |---|
-| ![](relatorios/curva%20ROC%20%2B%20calibra%C3%A7%C3%A3o%20da%20valida%C3%A7%C3%A3o%20temporal.png) |
+| ![](relatorios/nb03_curva_roc_calibracao.png) |
 
 | Projeção por Rodovia 2026 | Mapa de Risco Preditivo 2026 |
 |---|---|
-| ![](relatorios/Proje%C3%A7%C3%A3o%20de%20Acidentes%20por%20Rodovia%20%E2%80%94%202026%20Par%C3%A1.png) | ![](relatorios/Mapa%20de%20Risco%20Preditivo%202026%20%E2%80%94%20Rodovias%20Federais%20do%20Par%C3%A1.png) |
+| ![](relatorios/nb03_projecao_2026.png) | ![](relatorios/nb03_mapa_risco_preditivo.png) |
 
 | Simulador Interativo de Risco |
 |---|
-| ![](relatorios/Simulador%20de%20Risco%20de%20Fatalidade%20%E2%80%94%20PRF%20Para%202026.png) |
+| ![](relatorios/nb03_simulador_risco.png) |
 
 ## 🧠 Metodologia — 3 Notebooks Encadeados
 
