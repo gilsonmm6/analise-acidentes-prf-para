@@ -45,9 +45,11 @@ O projeto combina análise exploratória, modelagem estatística avançada e pre
 
 ### NB03 — Validação Temporal e Predição 2026
 
+> ⚠️ O NB03 contém widgets interativos (simulador de risco). Para visualizar todos os outputs, baixe o notebook e execute no Google Colab ou localmente.
+
 | Curva ROC + Calibração da Validação Temporal |
 |---|
-| ![](relatorios/nb03_curva_roc_calibracao) |
+| ![](relatorios/nb03_curva_roc_calibracao.png) |
 
 | Projeção por Rodovia 2026 | Mapa de Risco Preditivo 2026 |
 |---|---|
